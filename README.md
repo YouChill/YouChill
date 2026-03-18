@@ -2,7 +2,7 @@
 
 **End-to-end project builder** — from analysis and documentation to task management and deployment, powered by AI agents.
 
-Currently building real-world projects at **4F** and for personal growth.
+Currently building real-world projects **4fun** and for personal growth.
 
 ---
 
