@@ -69,8 +69,10 @@ Currently building real-world projects **4fun** and for personal growth — most
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YouChill&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouChill&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
+<sub>Public repositories only; cards refresh daily via GitHub Actions.</sub>
 
 ---
 
