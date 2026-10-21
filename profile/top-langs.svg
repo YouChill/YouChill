@@ -4,13 +4,13 @@
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
     <text x="24" y="36" font-size="17" font-weight="600" fill="#58a6ff">Most Used Languages</text>
     <rect x="24" y="52" width="252" height="8" rx="4" fill="#21262d"/>
-    <rect x="24.00" y="52" width="129.78" height="8" fill="#f1e05a"><title>JavaScript</title></rect>
-    <rect x="153.78" y="52" width="74.41" height="8" fill="#3178c6"><title>TypeScript</title></rect>
-    <rect x="228.19" y="52" width="13.59" height="8" fill="#336790"><title>PLpgSQL</title></rect>
-    <rect x="241.78" y="52" width="13.13" height="8" fill="#e34c26"><title>HTML</title></rect>
-    <rect x="254.91" y="52" width="8.96" height="8" fill="#7355dd"><title>C#</title></rect>
-    <rect x="263.88" y="52" width="6.09" height="8" fill="#89e051"><title>Shell</title></rect>
-    <rect x="269.97" y="52" width="5.98" height="8" fill="#663399"><title>CSS</title></rect>
+    <rect x="24.00" y="52" width="129.67" height="8" fill="#f1e05a"><title>JavaScript</title></rect>
+    <rect x="153.67" y="52" width="74.35" height="8" fill="#3178c6"><title>TypeScript</title></rect>
+    <rect x="228.03" y="52" width="13.60" height="8" fill="#336790"><title>PLpgSQL</title></rect>
+    <rect x="241.62" y="52" width="13.12" height="8" fill="#e34c26"><title>HTML</title></rect>
+    <rect x="254.74" y="52" width="8.96" height="8" fill="#7355dd"><title>C#</title></rect>
+    <rect x="263.70" y="52" width="6.27" height="8" fill="#89e051"><title>Shell</title></rect>
+    <rect x="269.97" y="52" width="5.97" height="8" fill="#663399"><title>CSS</title></rect>
     <rect x="275.94" y="52" width="0.06" height="8" fill="#384d54"><title>Dockerfile</title></rect>
     <circle cx="29" cy="81" r="5" fill="#f1e05a"/>
     <text x="40" y="86" font-size="12" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">51.5%</tspan></text>
@@ -23,7 +23,7 @@
     <circle cx="29" cy="129" r="5" fill="#7355dd"/>
     <text x="40" y="134" font-size="12" fill="#c9d1d9">C# <tspan fill="#8b949e">3.6%</tspan></text>
     <circle cx="159" cy="129" r="5" fill="#89e051"/>
-    <text x="170" y="134" font-size="12" fill="#c9d1d9">Shell <tspan fill="#8b949e">2.4%</tspan></text>
+    <text x="170" y="134" font-size="12" fill="#c9d1d9">Shell <tspan fill="#8b949e">2.5%</tspan></text>
     <circle cx="29" cy="153" r="5" fill="#663399"/>
     <text x="40" y="158" font-size="12" fill="#c9d1d9">CSS <tspan fill="#8b949e">2.4%</tspan></text>
     <circle cx="159" cy="153" r="5" fill="#384d54"/>
