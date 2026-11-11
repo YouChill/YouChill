@@ -6,7 +6,7 @@
     <text x="24" y="70" font-size="14" fill="#c9d1d9">Total stars</text>
     <text x="371" y="70" font-size="14" font-weight="600" fill="#c9d1d9" text-anchor="end">0</text>
     <text x="24" y="96" font-size="14" fill="#c9d1d9">Commits (last year)</text>
-    <text x="371" y="96" font-size="14" font-weight="600" fill="#c9d1d9" text-anchor="end">381</text>
+    <text x="371" y="96" font-size="14" font-weight="600" fill="#c9d1d9" text-anchor="end">386</text>
     <text x="24" y="122" font-size="14" fill="#c9d1d9">Pull requests</text>
     <text x="371" y="122" font-size="14" font-weight="600" fill="#c9d1d9" text-anchor="end">266</text>
     <text x="24" y="148" font-size="14" fill="#c9d1d9">Reviews (last year)</text>
